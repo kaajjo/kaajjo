@@ -1,9 +1,4 @@
-<h3 align="center">👋 I'm kaajjo (not my real name), Beginner developer.</h3>
+# Kaajjo 
+I'm hungry
 
-<h3>About me
-
-- 🤡 19 y.o student
-- 🌱 I am currently learning android development (specifically Jetpack Compose) and app architectures
-- 📫 How to reach me? [Telegram](https://t.me/imnotyourwaifu) or [email me](mailto:claymanoff@gmail.com)
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaajjo&theme=dark"/></p>
+![Kajjo Stats](https://github-readme-stats.vercel.app/api?username=kaajjo&show_icons=true&theme=gotham)
